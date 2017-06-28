@@ -1,0 +1,9 @@
+Para instalar
+1- Abrir terminal.
+2- Ejecutar 'make' para compilar.
+3- Ejecutar 'make install'.
+4- Ejecutar 'make clean' para borrar archivos innecesarios.
+
+Para desintalar 
+1- Abrir terminal.
+2- Ejecutar 'make uninstall'.
